@@ -1,0 +1,2 @@
+Program started
+Error opening file C:\Users\Lady
